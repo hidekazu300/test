@@ -1,0 +1,6 @@
+keras 2.0で動かすために
+ssd_layer.py
+ssd.py
+を更新した。
+
+http://d.hatena.ne.jp/natsutan/20170318/1489851945
